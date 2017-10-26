@@ -31,3 +31,11 @@ a{
 .thumbnai-item+ .thumbnai-item{
     margin-top: 10px;
 }
+.logo-text {
+    background: white;
+
+    text-align: center;
+    text-transform: uppercase;
+    font-size:37px;
+}
+
