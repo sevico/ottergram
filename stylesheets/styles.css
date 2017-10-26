@@ -25,4 +25,9 @@ a{
 
 .thumbnail-lists{
     list-style: none;
+    padding: 0;
+}
+
+.thumbnai-item+ .thumbnai-item{
+    margin-top: 10px;
 }
